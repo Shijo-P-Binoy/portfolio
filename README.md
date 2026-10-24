@@ -1,2 +1,2 @@
-﻿# Shijo P Binoy -Portfolio
- https://shijo-p-binoy.github.io/My-Portfolio/
+﻿# Shijo P Binoy - Portfolio Website
+ https://shijo-p-binoy.github.io/portfolio/
